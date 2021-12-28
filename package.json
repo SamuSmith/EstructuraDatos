@@ -1,0 +1,15 @@
+{
+  "name": "restaurants",
+  "version": "1.0.0",
+  "description": "Restaurants api rest",
+  "private": true,
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Samuel Herrero Haro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
